@@ -4,7 +4,7 @@ Unveiling Patterns in COVID-19 Data through a project based on R Language.
 
 This repository contains the code and documentation for a data analysis project focused on COVID-19. The project aims to explore, analyze, and visualize relevant data related to the COVID-19 pandemic. The analysis covers various aspects, including but not limited to infection rates, mortality rates, and vaccination progress.
 ## Authors
-- [Ayushi Sharma](#)
+- [Ayushi Sharma](https://github.com/Aayushhii)
 - [Komal Bansal](https://github.com/komalbansal21)
 - [Keshav Priyam](https://github.com/kshavp)
 ## Data Sources
